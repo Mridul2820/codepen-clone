@@ -1,4 +1,4 @@
-# Breaking Bad Cast React App
+# Codepen Clone React App
 
 This project is from [Web Dev Simplified](https://www.youtube.com/watch?v=wcVxX7lu2d4).
 
